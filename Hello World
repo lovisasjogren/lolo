@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>This is my webpage</title>
+</head>
+<body>
+	<h1>COCO AND LOLO</h1>
+	<h2>My sub-title</h2>
+
+<p>My paragraph 1 - text text text text text text text text text text text text text text text <strong>text text text text </strong>text text text text text text text text text text text text text text<b>text text text</b>text texttext text text text text text text text text text  text <i>text text</i> text text text text text text text text text text <u>text text text</u> text text text text text text text text text text </p>
+<p>My paragraph 2</p>
+<p>My paragraph 3</p>
+
+<ul>
+	<li><strong>Turnips</strong></li>
+	<li>Cannabis</li>
+	<li>Carrots</li>
+</ul>
+
+<table style="width: 100%">
+	<thead>
+	<tr>
+		<th>Name</th>
+		<th>Age</th>
+		<th>School</th>
+	</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alice</td>
+			<td>21</td>
+			<td>computer science</td>
+		</tr>
+		<tr>
+			<td>Bob</td>
+			<td>22</td>
+			<td>Management</td>
+		</tr>
+		<tr>
+			<td>Caitlin</td>
+			<td>23</td>
+			<td>Psychology</td>
+		</tr>
+	</tbody>
+</table>
+
+<form>
+	Username: <input type="text" /><br/> 
+	Passowrd: <input type="password" /><br/>
+	Gender:
+	<input type="radio" name="g" />M
+	<input type="radio" name="g" />F<br/>
+	I am over 18 
+	<input type="checkbox" /><br/>
+	Submit information
+	<input type="button" value="Click Me" />
+</form>
+</body>
